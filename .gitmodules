@@ -1,7 +1,7 @@
 [submodule "xgboost"]
 	path = xgboost
-	url = https://github.com/AMD-Ecosystem/xgboost
-	branch = release/3.2.0
+	url = https://github.com/yananlong/xgboost
+	branch = rocm/gfx1100-wave-size
 [submodule "LightGBM"]
 	path = LightGBM
 	url = https://github.com/AMD-Ecosystem/LightGBM
